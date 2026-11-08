@@ -1,0 +1,6 @@
+{
+  "name": "Sahil Restoranı Tycoon 3D",
+  "description": "Roblox tarzı 3D sahil ve şehir manzaralı gelişebilen restorant oyunu. Aşçı, garson, kurye yönetimi, 2. kat genişletmesi, inşa modu, menü özelleştirme ve liderlik tablosu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
